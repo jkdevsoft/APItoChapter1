@@ -1,0 +1,78 @@
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Delvelop Software\00 Inovation Develop\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Delvelop Software\WebAPI\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Delvelop Software\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
